@@ -1,5 +1,5 @@
 # execution results
-out/
+out/*
 
 # VSCode
 .vscode/*
